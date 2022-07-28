@@ -1,9 +1,13 @@
 [![MasterHead](https://i.im.ge/2022/07/28/Fje2sf.png)](https://www.github.com/haouanisoufiane)
 <div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
+  <a href="https://github.com/haouanisoufiane">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
+  </a>
 </div>
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
+  <a href="https://github.com/haouanisoufiane">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
+  </a>
 </div>
 
 <!--
