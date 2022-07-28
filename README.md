@@ -3,7 +3,10 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
  </a>
  <a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
+   ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
+ </a>
+ <a>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haouanisoufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </a>
 
 
