@@ -5,12 +5,6 @@
 <div>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
 </div>
-<a href="https://github.com/haouanisoufiane">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
-</a>
-<a href="https://github.com/haouanisoufiane">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
-</a>
 
 <!--
 **haouanisoufiane/haouanisoufiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
