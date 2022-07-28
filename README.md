@@ -1,10 +1,9 @@
 [![MasterHead](https://i.im.ge/2022/07/28/Fje2sf.png)](https://www.github.com/haouanisoufiane) 
-<a>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
- </a>
- <a style="margin-left:50px">
-   ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
- </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
+ 
+![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
+
 
 <!--
 **haouanisoufiane/haouanisoufiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
