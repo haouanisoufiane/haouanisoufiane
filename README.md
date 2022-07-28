@@ -2,15 +2,9 @@
 <a>
   [![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
  </a>
- <a>
+ <a style="margin-left:50px">
    ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
  </a>
- <a>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haouanisoufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </a>
-
-
-
 
 <!--
 **haouanisoufiane/haouanisoufiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
