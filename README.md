@@ -1,4 +1,6 @@
 [![MasterHead](https://i.im.ge/2022/07/28/Fje2sf.png)](https://www.github.com/haouanisoufiane)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
+&nbsp; &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
 <a style="margin-left: 10px;">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=haouanisoufiane)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
 </a>
