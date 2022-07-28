@@ -1,7 +1,7 @@
 [![MasterHead](https://i.im.ge/2022/07/28/Fje2sf.png)](https://www.github.com/haouanisoufiane) 
  
 ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haouanisoufiane)](https://git.io/streak-stats)
 
 
 <!--
