@@ -5,6 +5,8 @@
 Hello, I'm Haouani Soufiane, a 24 yo self-taught developer.</br>
 I used to dabble in C#, built desktop apps (using Windows Forms) and Websites (using ASP.NET) also with the help of Entity Framework. </br>
 Now I'm into Front-End development using HTML, CSS, JavaScript and ReactJS, I'm currently looking for opportunities to grow and build a strong knowledge in Front-End dev.
+
+## Technologies I use 
 <!-- ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haouanisoufiane)](https://git.io/streak-stats) -->
 
