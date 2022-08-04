@@ -2,7 +2,7 @@
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - WELCOME TO MY GITHUB PROFILE -
 
 ## About Me
-Hello, I'm Haouani Soufiane ! 
+Hello, I'm Haouani Soufiane ! </br>
 I switched lately to front-end dev using HTML, CSS and JavaScript/ReactJS after dabbling in C# (including ASP.NET, ADO.NET, Entity Framework).
 <!-- ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haouanisoufiane)](https://git.io/streak-stats) -->
