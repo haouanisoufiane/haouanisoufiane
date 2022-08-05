@@ -3,7 +3,7 @@
 
 ## About Me
 Hello, I'm Haouani Soufiane, a 24 yo self-taught developer.</br>
-I used to dabble with C# in the .NET ecosystem </br>
+I used to dabble with C# in the .NET ecosystem. </br>
 Now I'm into Front-End development using HTML, CSS, JavaScript and ReactJS, I'm currently looking for opportunities to grow and build a strong knowledge in Front-End dev.
 
 ## Technologies & tools I use 
