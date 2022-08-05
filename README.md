@@ -15,7 +15,7 @@ Now I'm into Front-End development using HTML, CSS, JavaScript and ReactJS, I'm 
   <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg">
   <img alt="ReactJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img alt="C#" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-sharp.svg">
-  <img alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg">
+  <!-- <img alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg"> -->
 </span> 
 
 ## My Github Stats
