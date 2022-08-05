@@ -23,10 +23,8 @@ Now I'm into Front-End development using HTML, CSS, JavaScript and ReactJS, I'm 
 
 ## My Github Stats
 <span> 
-  <div style="width:50px;">
     ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haouanisoufiane)](https://git.io/streak-stats) 
-  </div>
 </span>
 
 
