@@ -15,7 +15,7 @@ Now I'm into Front-End development using HTML, CSS, JavaScript and ReactJS, I'm 
   <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg">
   <img alt="ReactJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img alt="C#" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-sharp.svg">
-  <img alt="ASP.NET" width="26px" src="https://i.postimg.cc/JhMQVb65/1796970.png">
+  <img alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg">
   <img alt="SQL" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
   <img alt="Visual Studio Code" width="26px" src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg">
   <img alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg">
