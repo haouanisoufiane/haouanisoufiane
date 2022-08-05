@@ -16,9 +16,11 @@ Now I'm into Front-End development using HTML, CSS, JavaScript and ReactJS, I'm 
   <img alt="ReactJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img alt="C#" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-sharp.svg">
   <img alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg">
-</span>
-<!-- ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haouanisoufiane)](https://git.io/streak-stats) -->
+</span> 
+
+## My Github Stats
+![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=haouanisoufiane&count_private=true&show_icons=true&theme=graywhite)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haouanisoufiane)](https://git.io/streak-stats) 
 
 
 <!--
